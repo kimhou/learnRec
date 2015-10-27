@@ -1,6 +1,6 @@
 ## gulp + webpack 开发环境搭建DEMO
 
-### 环境说明
+#### 环境说明
 此开发环境使用gulp + webpack-stream进行打包任务，打包编译工具使用babel，无论你是否使用jsx, 是否使用ejs模板都可以尝试使用，至少会让你的代码拆分更合理，至少可以试试ES6的新特性，step by step两步搞定。
 
 目前已经支持
@@ -12,25 +12,25 @@
 3. js文件打包为VM模块
 
 ## Step 1. 环境依赖, 安装npm依赖包
-### 安装最新版本node+npm
+#### 安装最新版本node+npm
 请参见官网nodejs.org
 
-### 安装全局Gulp
+#### 安装全局Gulp
 ```
 npm install --global gulp
 ```
-### 初始化npm环境, 生成package.js
+#### 初始化npm环境, 生成package.js
 进入项目目录执行
 ```
 npm  init
 ```
  填写提示输入的字段【随意填写无防】
 
-### 安装gulp+webpack-stream依赖：
+#### 安装gulp+webpack-stream依赖：
 ```
 npm install --save-dev gulp  webpack-stream through2 fs
 ```
-### 安装webpack loader依赖：
+#### 安装webpack loader依赖：
 ```
 npm install --save-dev babel-loader ejs-tmpl-loader css-loader style-loader
 ```
@@ -44,6 +44,7 @@ var devFolder = './statics/dev/',
     moduleReg = /(company\.part\..*).js/i;
 
 /************************************end***********************************/
+
 ```
 项目中module1, module2 ....目录下面需要一入口文件index.js,
 
