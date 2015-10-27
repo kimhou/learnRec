@@ -1,0 +1,15 @@
+body{
+    background: #ccc;
+    text-align: center;
+}
+
+div.border{
+    display: inline-block;
+    text-align: center;
+    width: 50%;
+    margin: 20px;
+    padding: 20px;
+    border: solid 5px #666;
+    background: #ffffcc;
+    font-size: 18pt;
+}
