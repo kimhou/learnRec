@@ -25,35 +25,45 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulp&amp;webpack/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.2">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state vertical-scroll-proportion="-16.8">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gulp&amp;webpack/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="78" column="6" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.48501363">
+              <caret line="31" column="107" selection-start-line="31" selection-start-column="107" selection-end-line="31" selection-end-column="107" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.MD" pinned="false" current-in-tab="true">
+      <file leaf-file-name="company.part.module2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulp&amp;webpack/statics/dev/company.part.module2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.MD" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulp&amp;webpack/README.MD">
           <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.232143">
+            <state vertical-scroll-proportion="0.0">
               <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
               <folding />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
+          <provider editor-type-id="MultiMarkdownFxHtmlEditor">
             <state />
           </provider>
-          <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+          <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
             <state />
           </provider>
         </entry>
@@ -62,109 +72,8 @@
         <entry file="file://$PROJECT_DIR$/gulp&amp;webpack/statics/dev/company.part.module1.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="574" column="3" selection-start-line="574" selection-start-column="3" selection-end-line="574" selection-end-column="3" />
-              <folding>
-                <element signature="e#177#1382#0" expanded="false" />
-                <element signature="e#199#207#0" expanded="false" />
-                <element signature="e#229#237#0" expanded="false" />
-                <element signature="e#267#275#0" expanded="false" />
-                <element signature="e#301#309#0" expanded="false" />
-                <element signature="e#350#1007#0" expanded="false" />
-                <element signature="e#353#361#0" expanded="false" />
-                <element signature="e#395#403#0" expanded="false" />
-                <element signature="e#437#445#0" expanded="false" />
-                <element signature="e#493#501#0" expanded="false" />
-                <element signature="e#555#563#0" expanded="false" />
-                <element signature="e#608#699#0" expanded="false" />
-                <element signature="e#702#710#0" expanded="false" />
-                <element signature="e#744#752#0" expanded="false" />
-                <element signature="e#841#849#0" expanded="false" />
-                <element signature="e#881#889#0" expanded="false" />
-                <element signature="e#915#923#0" expanded="false" />
-                <element signature="e#962#970#0" expanded="false" />
-                <element signature="e#996#1004#0" expanded="false" />
-                <element signature="e#1010#1018#0" expanded="false" />
-                <element signature="e#1071#1079#0" expanded="false" />
-                <element signature="e#1115#1123#0" expanded="false" />
-                <element signature="e#1152#1160#0" expanded="false" />
-                <element signature="e#1205#1213#0" expanded="false" />
-                <element signature="e#1242#1250#0" expanded="false" />
-                <element signature="e#1281#1289#0" expanded="false" />
-                <element signature="e#1331#1339#0" expanded="false" />
-                <element signature="e#1372#1380#0" expanded="false" />
-                <element signature="e#1471#1478#0" expanded="false" />
-                <element signature="e#1479#1484#0" expanded="false" />
-                <element signature="e#1532#1900#0" expanded="false" />
-                <element signature="e#1536#1636#0" expanded="false" />
-                <element signature="e#1858#1890#0" expanded="false" />
-                <element signature="e#1893#1898#0" expanded="false" />
-                <element signature="e#1902#1909#0" expanded="false" />
-                <element signature="e#1910#1915#0" expanded="false" />
-                <element signature="e#1963#2730#0" expanded="false" />
-                <element signature="e#2145#2271#0" expanded="false" />
-                <element signature="e#2317#2376#0" expanded="false" />
-                <element signature="e#2389#2721#0" expanded="false" />
-                <element signature="e#2723#2728#0" expanded="false" />
-                <element signature="e#2732#2739#0" expanded="false" />
-                <element signature="e#2740#2745#0" expanded="false" />
-                <element signature="e#2793#3193#0" expanded="false" />
-                <element signature="e#3186#3191#0" expanded="false" />
-                <element signature="e#3195#3202#0" expanded="false" />
-                <element signature="e#3203#3208#0" expanded="false" />
-                <element signature="e#3235#4768#0" expanded="false" />
-                <element signature="e#3239#3341#0" expanded="false" />
-                <element signature="e#3434#4758#0" expanded="false" />
-                <element signature="e#4761#4766#0" expanded="false" />
-                <element signature="e#4770#4777#0" expanded="false" />
-                <element signature="e#4778#4783#0" expanded="false" />
-                <element signature="e#4831#11995#0" expanded="false" />
-                <element signature="e#4835#4937#0" expanded="false" />
-                <element signature="e#4986#5122#0" expanded="false" />
-                <element signature="e#5155#5233#0" expanded="false" />
-                <element signature="e#5275#5349#0" expanded="false" />
-                <element signature="e#5481#6627#0" expanded="false" />
-                <element signature="e#6671#7238#0" expanded="false" />
-                <element signature="e#7269#7680#0" expanded="false" />
-                <element signature="e#7734#8431#0" expanded="false" />
-                <element signature="e#8476#8662#0" expanded="false" />
-                <element signature="e#8702#8862#0" expanded="false" />
-                <element signature="e#8901#9057#0" expanded="false" />
-                <element signature="e#9092#10326#0" expanded="false" />
-                <element signature="e#10360#10516#0" expanded="false" />
-                <element signature="e#10586#11042#0" expanded="false" />
-                <element signature="e#11084#11476#0" expanded="false" />
-                <element signature="e#11517#11985#0" expanded="false" />
-                <element signature="e#11988#11993#0" expanded="false" />
-                <element signature="e#11997#12004#0" expanded="false" />
-                <element signature="e#12005#12010#0" expanded="false" />
-                <element signature="e#12037#13554#0" expanded="false" />
-                <element signature="e#12041#12127#0" expanded="false" />
-                <element signature="e#12901#13541#0" expanded="false" />
-                <element signature="e#13547#13552#0" expanded="false" />
-                <element signature="e#13556#13563#0" expanded="false" />
-                <element signature="e#13564#13569#0" expanded="false" />
-                <element signature="e#13617#14032#0" expanded="false" />
-                <element signature="e#13621#13729#0" expanded="false" />
-                <element signature="e#13821#14018#0" expanded="false" />
-                <element signature="e#14025#14030#0" expanded="false" />
-                <element signature="e#14034#14041#0" expanded="false" />
-                <element signature="e#14042#14047#0" expanded="false" />
-                <element signature="e#14074#14487#0" expanded="false" />
-                <element signature="e#14129#14476#0" expanded="false" />
-                <element signature="e#14480#14485#0" expanded="false" />
-                <element signature="e#14489#14496#0" expanded="false" />
-                <element signature="e#14497#14502#0" expanded="false" />
-                <element signature="e#14529#14871#0" expanded="false" />
-                <element signature="e#14533#14637#0" expanded="false" />
-                <element signature="e#14691#14857#0" expanded="false" />
-                <element signature="e#14864#14869#0" expanded="false" />
-                <element signature="e#14873#14880#0" expanded="false" />
-                <element signature="e#14881#14886#0" expanded="false" />
-                <element signature="e#14913#15288#0" expanded="false" />
-                <element signature="e#14950#15278#0" expanded="false" />
-                <element signature="e#15281#15286#0" expanded="false" />
-                <element signature="e#15289#15297#0" expanded="false" />
-              </folding>
+              <caret line="497" column="42" selection-start-line="497" selection-start-column="42" selection-end-line="497" selection-end-column="42" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -209,16 +118,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gulp&amp;webpack/statics/dev/company.part.module1/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="mod1.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulp&amp;webpack/statics/dev/company.part.module1/mod1.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -254,16 +153,23 @@
         <option value="$PROJECT_DIR$/gulp&amp;webpack/statics/dev/company.part.module1/jsx/jsxMain.jsx" />
         <option value="$PROJECT_DIR$/gulp&amp;webpack/statics/dev/common/jsx/commonMod1.jsx" />
         <option value="$PROJECT_DIR$/gulp&amp;webpack/statics/dev/company.part.module1/index.js" />
-        <option value="$PROJECT_DIR$/gulp&amp;webpack/package.json" />
         <option value="$PROJECT_DIR$/gulp&amp;webpack/statics/dev/company.part.module2/index.js" />
-        <option value="$PROJECT_DIR$/gulp&amp;webpack/gulpfile.js" />
         <option value="$PROJECT_DIR$/gulp&amp;webpack/README.MD" />
+        <option value="$PROJECT_DIR$/gulp&amp;webpack/package.json" />
+        <option value="$PROJECT_DIR$/gulp&amp;webpack/gulpfile.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="NamedScopeManager">
     <order />
@@ -299,8 +205,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -383,7 +289,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -394,6 +300,9 @@
     <property name="JavaScriptLanguageLevel" value="JSX" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -704,15 +613,17 @@
       <workItem from="1444643765408" duration="814000" />
       <workItem from="1445588635081" duration="1623000" />
       <workItem from="1445931418158" duration="648000" />
-      <workItem from="1445932278723" duration="4526000" />
+      <workItem from="1445932278723" duration="5226000" />
+      <workItem from="1445996289984" duration="176000" />
+      <workItem from="1446456334894" duration="1919000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22780000" />
+    <option name="totallyTimeSpent" value="25575000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -722,23 +633,23 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2623427" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.190625" sideWeight="0.832021" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.190625" sideWeight="0.816273" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.190625" sideWeight="0.167979" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.190625" sideWeight="0.18372704" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.08809293" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913843" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -757,6 +668,46 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gulp&amp;webpack/statics/dev/company.part.module2/jsx/jsxComp1.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp&amp;webpack/statics/dev/company.part.module1/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp&amp;webpack/statics/dev/common/jsx/commonMod1.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp&amp;webpack/statics/dev/company.part.module1/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp&amp;webpack/statics/dev/company.part.module1/mod1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gulp&amp;webpack/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -785,7 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -793,7 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -990,7 +939,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -998,7 +946,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1006,7 +953,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1030,14 +976,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulp&amp;webpack/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.2">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -1066,10 +1004,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulp&amp;webpack/gulpfile.js">
+    <entry file="file://$PROJECT_DIR$/gulp&amp;webpack/README.MD">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp&amp;webpack/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.8">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp&amp;webpack/statics/dev/company.part.module2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="78" column="6" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1077,125 +1037,93 @@
     <entry file="file://$PROJECT_DIR$/gulp&amp;webpack/statics/dev/company.part.module1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="574" column="3" selection-start-line="574" selection-start-column="3" selection-end-line="574" selection-end-column="3" />
-          <folding>
-            <element signature="e#177#1382#0" expanded="false" />
-            <element signature="e#199#207#0" expanded="false" />
-            <element signature="e#229#237#0" expanded="false" />
-            <element signature="e#267#275#0" expanded="false" />
-            <element signature="e#301#309#0" expanded="false" />
-            <element signature="e#350#1007#0" expanded="false" />
-            <element signature="e#353#361#0" expanded="false" />
-            <element signature="e#395#403#0" expanded="false" />
-            <element signature="e#437#445#0" expanded="false" />
-            <element signature="e#493#501#0" expanded="false" />
-            <element signature="e#555#563#0" expanded="false" />
-            <element signature="e#608#699#0" expanded="false" />
-            <element signature="e#702#710#0" expanded="false" />
-            <element signature="e#744#752#0" expanded="false" />
-            <element signature="e#841#849#0" expanded="false" />
-            <element signature="e#881#889#0" expanded="false" />
-            <element signature="e#915#923#0" expanded="false" />
-            <element signature="e#962#970#0" expanded="false" />
-            <element signature="e#996#1004#0" expanded="false" />
-            <element signature="e#1010#1018#0" expanded="false" />
-            <element signature="e#1071#1079#0" expanded="false" />
-            <element signature="e#1115#1123#0" expanded="false" />
-            <element signature="e#1152#1160#0" expanded="false" />
-            <element signature="e#1205#1213#0" expanded="false" />
-            <element signature="e#1242#1250#0" expanded="false" />
-            <element signature="e#1281#1289#0" expanded="false" />
-            <element signature="e#1331#1339#0" expanded="false" />
-            <element signature="e#1372#1380#0" expanded="false" />
-            <element signature="e#1471#1478#0" expanded="false" />
-            <element signature="e#1479#1484#0" expanded="false" />
-            <element signature="e#1532#1900#0" expanded="false" />
-            <element signature="e#1536#1636#0" expanded="false" />
-            <element signature="e#1858#1890#0" expanded="false" />
-            <element signature="e#1893#1898#0" expanded="false" />
-            <element signature="e#1902#1909#0" expanded="false" />
-            <element signature="e#1910#1915#0" expanded="false" />
-            <element signature="e#1963#2730#0" expanded="false" />
-            <element signature="e#2145#2271#0" expanded="false" />
-            <element signature="e#2317#2376#0" expanded="false" />
-            <element signature="e#2389#2721#0" expanded="false" />
-            <element signature="e#2723#2728#0" expanded="false" />
-            <element signature="e#2732#2739#0" expanded="false" />
-            <element signature="e#2740#2745#0" expanded="false" />
-            <element signature="e#2793#3193#0" expanded="false" />
-            <element signature="e#3186#3191#0" expanded="false" />
-            <element signature="e#3195#3202#0" expanded="false" />
-            <element signature="e#3203#3208#0" expanded="false" />
-            <element signature="e#3235#4768#0" expanded="false" />
-            <element signature="e#3239#3341#0" expanded="false" />
-            <element signature="e#3434#4758#0" expanded="false" />
-            <element signature="e#4761#4766#0" expanded="false" />
-            <element signature="e#4770#4777#0" expanded="false" />
-            <element signature="e#4778#4783#0" expanded="false" />
-            <element signature="e#4831#11995#0" expanded="false" />
-            <element signature="e#4835#4937#0" expanded="false" />
-            <element signature="e#4986#5122#0" expanded="false" />
-            <element signature="e#5155#5233#0" expanded="false" />
-            <element signature="e#5275#5349#0" expanded="false" />
-            <element signature="e#5481#6627#0" expanded="false" />
-            <element signature="e#6671#7238#0" expanded="false" />
-            <element signature="e#7269#7680#0" expanded="false" />
-            <element signature="e#7734#8431#0" expanded="false" />
-            <element signature="e#8476#8662#0" expanded="false" />
-            <element signature="e#8702#8862#0" expanded="false" />
-            <element signature="e#8901#9057#0" expanded="false" />
-            <element signature="e#9092#10326#0" expanded="false" />
-            <element signature="e#10360#10516#0" expanded="false" />
-            <element signature="e#10586#11042#0" expanded="false" />
-            <element signature="e#11084#11476#0" expanded="false" />
-            <element signature="e#11517#11985#0" expanded="false" />
-            <element signature="e#11988#11993#0" expanded="false" />
-            <element signature="e#11997#12004#0" expanded="false" />
-            <element signature="e#12005#12010#0" expanded="false" />
-            <element signature="e#12037#13554#0" expanded="false" />
-            <element signature="e#12041#12127#0" expanded="false" />
-            <element signature="e#12901#13541#0" expanded="false" />
-            <element signature="e#13547#13552#0" expanded="false" />
-            <element signature="e#13556#13563#0" expanded="false" />
-            <element signature="e#13564#13569#0" expanded="false" />
-            <element signature="e#13617#14032#0" expanded="false" />
-            <element signature="e#13621#13729#0" expanded="false" />
-            <element signature="e#13821#14018#0" expanded="false" />
-            <element signature="e#14025#14030#0" expanded="false" />
-            <element signature="e#14034#14041#0" expanded="false" />
-            <element signature="e#14042#14047#0" expanded="false" />
-            <element signature="e#14074#14487#0" expanded="false" />
-            <element signature="e#14129#14476#0" expanded="false" />
-            <element signature="e#14480#14485#0" expanded="false" />
-            <element signature="e#14489#14496#0" expanded="false" />
-            <element signature="e#14497#14502#0" expanded="false" />
-            <element signature="e#14529#14871#0" expanded="false" />
-            <element signature="e#14533#14637#0" expanded="false" />
-            <element signature="e#14691#14857#0" expanded="false" />
-            <element signature="e#14864#14869#0" expanded="false" />
-            <element signature="e#14873#14880#0" expanded="false" />
-            <element signature="e#14881#14886#0" expanded="false" />
-            <element signature="e#14913#15288#0" expanded="false" />
-            <element signature="e#14950#15278#0" expanded="false" />
-            <element signature="e#15281#15286#0" expanded="false" />
-            <element signature="e#15289#15297#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulp&amp;webpack/README.MD">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.232143">
-          <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+          <caret line="497" column="42" selection-start-line="497" selection-start-column="42" selection-end-line="497" selection-end-column="42" />
           <folding />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp&amp;webpack/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48501363">
+          <caret line="31" column="107" selection-start-line="31" selection-start-column="107" selection-end-line="31" selection-end-column="107" />
+          <folding />
+        </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Node.js v0.12.5 Core Modules</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>buildTools</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

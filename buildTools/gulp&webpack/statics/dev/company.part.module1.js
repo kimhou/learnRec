@@ -50,13 +50,13 @@ define("company.part.module1", function(require, exports, module) {
 /* 0 */
 /***/ function(module, exports, __webpack_require__) {
 
+	'use strict';
+
 	/**
 	 * @module module1/index
 	 * @description 模块入口
 	 * @author kimhou create on 15/10/27 15:47
 	 */
-
-	'use strict';
 
 	__webpack_require__(1);
 	__webpack_require__(5);
@@ -128,13 +128,13 @@ define("company.part.module1", function(require, exports, module) {
 /* 3 */
 /***/ function(module, exports) {
 
+	"use strict";
+
 	/*
 		MIT License http://www.opensource.org/licenses/mit-license.php
 		Author Tobias Koppers @sokra
 	*/
 	// css base code, injected by the css-loader
-	"use strict";
-
 	module.exports = function () {
 		var list = [];
 
@@ -437,17 +437,17 @@ define("company.part.module1", function(require, exports, module) {
 /* 5 */
 /***/ function(module, exports) {
 
+	'use strict';
+
+	var _createClass = (function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; })();
+
+	function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
 	/**
 	 * @module mod1
 	 * @description
 	 * @author kimhou create on 15/10/12 10:07
 	 */
-
-	'use strict';
-
-	var _createClass = (function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ('value' in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; })();
-
-	function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError('Cannot call a class as a function'); } }
 
 	module.exports = (function () {
 	    function _class() {
@@ -479,19 +479,17 @@ define("company.part.module1", function(require, exports, module) {
 /* 6 */
 /***/ function(module, exports, __webpack_require__) {
 
+	'use strict';
+
 	/**
 	 * @module module1/jsx/jsxMain
 	 * @description jsx主文件
 	 * @author kimhou create on 15/10/27 15:52
 	 */
 
-	'use strict';
-
 	var Comp1 = __webpack_require__(7);
 
 	module.exports = React.createClass({
-	  displayName: 'exports',
-
 	  render: function render() {
 	    return React.createElement(
 	      'div',
@@ -510,8 +508,6 @@ define("company.part.module1", function(require, exports, module) {
 	"use strict";
 
 	module.exports = React.createClass({
-	  displayName: "exports",
-
 	  customMethos: function customMethos() {
 	    var param = arguments.length <= 0 || arguments[0] === undefined ? null : arguments[0];
 
@@ -530,17 +526,15 @@ define("company.part.module1", function(require, exports, module) {
 /* 8 */
 /***/ function(module, exports) {
 
+	"use strict";
+
 	/**
 	 * @module common/commonMod1
 	 * @description 公共组件
 	 * @author kimhou create on 15/10/27 15:55
 	 */
 
-	"use strict";
-
 	module.exports = React.createClass({
-	  displayName: "exports",
-
 	  render: function render() {
 	    return React.createElement(
 	      "div",

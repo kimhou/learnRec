@@ -29,9 +29,9 @@ gulp.task('default', function () {
         module: {
             //loaders为webpack自动适配不同文件的编译方式, test为匹配规则, loader为npm模块
             loaders: [
-                {test: /\.jsx?$/, loader: 'babel'},
-                {test: /\.ejs$/, loader: 'ejs-tmpl'},
-                {test: /\.css$/, loader: 'style/useable!css'}
+                {test: /\.jsx?$/, loader: 'babel', query: {presets:['react', 'es2015']}},//配置reace和es5依赖编译项
+                {test: /\.ejs$/, loader: 'ejs-tmpl'},//可选[如果没有使用ejs模板可以不配置]
+                {test: /\.css$/, loader: 'style/useable!css'}//可选[如果没有使用css可以不配置]
             ]
         },
         watch: true//文件变化自动合并
@@ -59,7 +59,7 @@ function getEntrys(root, moduleReg) {
 }
 
 /**
- * 打包VM模块
+ * 打包VM模块babelba
  * 1. 替换window.require为require
  * 2. 添加define模块代码
  */
