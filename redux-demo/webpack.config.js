@@ -16,7 +16,7 @@ module.exports = {
 	},
 	module: {
 		loaders: [
-			{test: /\.jsx?$/, loader: 'babel'}
+			{test: /\.jsx?$/, loader: 'babel', preset:['es2015', 'react']}
 		]
 	},
 	resolve: {
