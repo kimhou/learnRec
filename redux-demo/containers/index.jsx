@@ -5,7 +5,7 @@
  */
 import React from 'react';
 import classNames from 'classnames';
-debugger;
+
 const Select = React.createClass({
 	displayName: 'Select',
 
@@ -33,7 +33,6 @@ const Select = React.createClass({
 	},
 
 	getInitialState() {
-		debugger;
 		return {
 			isOpen: false
 		};
