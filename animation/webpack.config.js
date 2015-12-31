@@ -1,5 +1,5 @@
 /**
- * @module webpack.config
+ * @module webpack.config a
  * @desc
  * @author Created by kimhou on 15/12/25
  */
@@ -12,8 +12,7 @@ module.exports = {
 	colors: true,
 	profile: true,
 	entry: {
-		index: './index.js',
-		common: ['./lib/common.js', './lib/common2.js']
+		index: './index.js'
 	},
 	output: {
 		path: path.join(__dirname, 'dist'),
@@ -37,8 +36,7 @@ module.exports = {
 			'$': 'jquery',
 			'React': 'react',
 			'ReactDom': 'react-dom'
-		}),
-		new CommonsChunkPlugin('common', 'common.bundle.js'),
+		})
 	]
 }
 ;
