@@ -5,7 +5,6 @@
  */
 
 
-import Select from './containers/index.jsx';
 import List from './components/list';
 
 ReactDOM.render(

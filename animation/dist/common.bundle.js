@@ -44,36 +44,9 @@
 /* 0 */
 /***/ function(module, exports, __webpack_require__) {
 
-	__webpack_require__(1);
-	module.exports = __webpack_require__(2);
+	(function webpackMissingModule() { throw new Error("Cannot find module \"./lib/common.js\""); }());
+	(function webpackMissingModule() { throw new Error("Cannot find module \"./lib/common2.js\""); }());
 
-
-/***/ },
-/* 1 */
-/***/ function(module, exports) {
-
-	/**
-	 * @module common
-	 * @desc
-	 * @author Created by kimhou on 15/12/30
-	 */
-	'use strict';
-
-	var common = 'commonjs';
-	console.log('commonjs');
-
-/***/ },
-/* 2 */
-/***/ function(module, exports) {
-
-	/**
-	 * @module common2.js
-	 * @desc
-	 * @author Created by kimhou on 15/12/30
-	 */
-	'use strict';
-
-	console.log('common2');
 
 /***/ }
 /******/ ]);
