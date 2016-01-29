@@ -12,7 +12,8 @@ module.exports = {
 	colors: true,
 	profile: true,
 	entry: {
-		index: './index.js'
+		index: './index.js',
+		vender: ['jquery', 'react', 'react-dom']
 	},
 	output: {
 		path: path.join(__dirname, 'dist'),
@@ -26,17 +27,13 @@ module.exports = {
 	resolve: {
 		extensions: ['', '.json', '.js', '.jsx']
 	},
-	externals: {
-		'jquery': 'window.$',
-		'react': 'window.React',
-		'react-dom': 'window.ReactDOM'
-	},
-	plugs: [
+		plugs: [
 		new webpack.ProvidePlugin({
 			'$': 'jquery',
 			'React': 'react',
 			'ReactDom': 'react-dom'
-		})
+		}),
+		new webpack.optimize.CommonsChunkPlugin('vender', '[name].[hash].js')
 	]
 }
 ;
