@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>VUE hello world</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  </head>
+  <body>
+    <div id="container">
+      <h2>这是一个商品列表</h2>
+      <ul>
+        <li v-for="goods in goodsList">
+          {{ goods.name }}
+          <input type="number" v-model.number="goods.count" />
+          <button @click="goods.count++">增加</button>
+          <button @click="goods.count--">减少</button>
+        </li>
+      </ul>
+      <div>总数：{{ total }}</div>
+    </div>
+    <script>
+      const app = new Vue({
+        el: '#container',
+        data: {
+          goodsList: [
+            { id: 0, count: Math.ceil(Math.random() * 100), name: '火腿' },
+            { id: 1, count: Math.ceil(Math.random() * 100), name: '香蕉' },
+            { id: 2, count: Math.ceil(Math.random() * 100), name: '苹果' },
+            { id: 3, count: Math.ceil(Math.random() * 100), name: '雪梨' }
+          ]
+        },
+        computed: {
+          total() {
+            return this.goodsList.reduce((sum, goods) => sum + goods.count, 0)
+          }
+        },
+        created() {}
+      })
+    </script>
+  </body>
+</html>
