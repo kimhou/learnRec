@@ -1,0 +1,25 @@
+
+.container{
+    
+}
+.tab-bar{
+    display: flex;
+    flex-direction: row;
+
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background: #eee;
+    border-top: solid 1px #ccc;
+}
+.tab-bar .h5-div{
+    height: 40px;
+    width: 50%;
+    text-align: center;
+    line-height: 40px;
+}
+.tab-bar .current{
+    background: #fff;
+}
+
+
