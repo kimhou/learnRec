@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>RENDER COMPONENT</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <style>
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      #container {
+        width: 50%;
+        padding: 50px;
+        border: solid 5px #ccc;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="container">
+      <h2>sync 双向绑定使用</h2>
+      <p>组件属性使用 property.sync 进行双向绑定时，子组件只需要向父组件发送update信息即可更新，免去了父组件bind更新属性的步骤 this.$emit('update:propertyName', value) </p>
+      <div>count: <input v-model="count" /></div>
+      <custom-input :value.sync="count"></custom-input>
+    </div>
+    <script>
+      Vue.component('custom-input', {
+        props: {
+          value: 0
+        },
+        methods: {
+          change(event) {
+            this.$emit('update:value', event.target.value)
+          }
+        },
+        template: `<label>input: <input v-model:value="value" @input="change"/></label>`
+      })
+      const app = new Vue({
+        el: '#container',
+        data: {
+          count: 10
+        }
+      })
+    </script>
+  </body>
+</html>
