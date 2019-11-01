@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>RENDER COMPONENT</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        vertical-align: middle;
+        background: #ccc;
+      }
+      .main {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 100vh;
+      }
+      .header {
+        height: 80px;
+        flex: 0 0 auto;
+        background: cornflowerblue;
+      }
+      .ctn {
+        flex-grow: 1;
+        background: darkseagreen;
+      }
+      .footer {
+        height: 80px;
+        flex: 0 0 auto;
+        background: darkcyan;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="container">
+      <layout>
+        <template v-slot:title
+          >hello slot</template
+        >
+        <div class="ctn">container</div>
+      </layout>
+    </div>
+    <script>
+      Vue.component('layout', {
+        props: {
+          title: 'slot'
+        },
+        template: `
+        <div class="main">
+          <slot name="header">
+            <div class="header"><h1><slot name="title">title:{{title}}</slot></h1></div>
+          </slot>
+          <slot><div>body</div></slot>
+          <slot name="footer">
+            <div class="footer">footer</div>
+          </slot>
+        </div>`
+      })
+      const app = new Vue({
+        el: '#container',
+        data: {}
+      })
+    </script>
+  </body>
+</html>
